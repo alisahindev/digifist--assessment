@@ -10,7 +10,7 @@ This project created for DigiFist assignment.
 
 ## GH-Pages
 
-The project is deployed on GH-Pages. You can access it from.
+The project is deployed on GH-Pages. You can access it from [here](https://alisahindev.github.io/digifist--assessment/).
 
 ### `npm start`
 
