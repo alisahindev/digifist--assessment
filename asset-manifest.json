@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.76502bec.css",
-    "main.js": "/static/js/main.de878185.js",
-    "static/media/bg.png": "/static/media/bg.03aad750ab2dac261fc4.png",
-    "static/media/2.png": "/static/media/2.ffd23c76a86e743ab3c5.png",
-    "static/media/Avenir-400.ttf": "/static/media/Avenir-400.ab7aa26986df653dedc1.ttf",
-    "static/media/Avenir-500.ttf": "/static/media/Avenir-500.90ba4d31a83ca40b27d8.ttf",
-    "static/media/Avenir-600.ttf": "/static/media/Avenir-600.ef8835d185e784ae3f88.ttf",
-    "static/media/Avenir-700.ttf": "/static/media/Avenir-700.40a3704bc5953e2f1ded.ttf",
-    "static/media/ITCAvantGardePro-Bold.otf": "/static/media/ITCAvantGardePro-Bold.e7bb9f7b5abf08aa7078.otf",
-    "static/media/ITCAvantGardePro-Md.otf": "/static/media/ITCAvantGardePro-Md.3d52dc18170f45510a58.otf",
-    "static/media/Avenir-300.ttf": "/static/media/Avenir-300.d7d158a298aa946d69ad.ttf",
-    "static/media/ITCAvantGardePro-Bk.otf": "/static/media/ITCAvantGardePro-Bk.dec102d3d13de4658146.otf",
-    "static/media/ITCAvantGardePro-Demi.otf": "/static/media/ITCAvantGardePro-Demi.ef13fc9290d40cae9b6d.otf",
-    "static/media/1.png": "/static/media/1.174b06407ab0cb9fbabb.png",
-    "index.html": "/index.html",
-    "main.76502bec.css.map": "/static/css/main.76502bec.css.map",
-    "main.de878185.js.map": "/static/js/main.de878185.js.map"
+    "main.css": "/digifist--assessment/static/css/main.55a05def.css",
+    "main.js": "/digifist--assessment/static/js/main.4065d2a4.js",
+    "static/media/bg.png": "/digifist--assessment/static/media/bg.03aad750ab2dac261fc4.png",
+    "static/media/2.png": "/digifist--assessment/static/media/2.ffd23c76a86e743ab3c5.png",
+    "static/media/Avenir-400.ttf": "/digifist--assessment/static/media/Avenir-400.ab7aa26986df653dedc1.ttf",
+    "static/media/Avenir-500.ttf": "/digifist--assessment/static/media/Avenir-500.90ba4d31a83ca40b27d8.ttf",
+    "static/media/Avenir-600.ttf": "/digifist--assessment/static/media/Avenir-600.ef8835d185e784ae3f88.ttf",
+    "static/media/Avenir-700.ttf": "/digifist--assessment/static/media/Avenir-700.40a3704bc5953e2f1ded.ttf",
+    "static/media/ITCAvantGardePro-Bold.otf": "/digifist--assessment/static/media/ITCAvantGardePro-Bold.e7bb9f7b5abf08aa7078.otf",
+    "static/media/ITCAvantGardePro-Md.otf": "/digifist--assessment/static/media/ITCAvantGardePro-Md.3d52dc18170f45510a58.otf",
+    "static/media/Avenir-300.ttf": "/digifist--assessment/static/media/Avenir-300.d7d158a298aa946d69ad.ttf",
+    "static/media/ITCAvantGardePro-Bk.otf": "/digifist--assessment/static/media/ITCAvantGardePro-Bk.dec102d3d13de4658146.otf",
+    "static/media/ITCAvantGardePro-Demi.otf": "/digifist--assessment/static/media/ITCAvantGardePro-Demi.ef13fc9290d40cae9b6d.otf",
+    "static/media/1.png": "/digifist--assessment/static/media/1.174b06407ab0cb9fbabb.png",
+    "index.html": "/digifist--assessment/index.html",
+    "main.55a05def.css.map": "/digifist--assessment/static/css/main.55a05def.css.map",
+    "main.4065d2a4.js.map": "/digifist--assessment/static/js/main.4065d2a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.76502bec.css",
-    "static/js/main.de878185.js"
+    "static/css/main.55a05def.css",
+    "static/js/main.4065d2a4.js"
   ]
 }
